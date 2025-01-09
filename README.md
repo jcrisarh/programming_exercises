@@ -3,10 +3,10 @@
 This repository contains a collection of solved programming exercises in various languages. The goal is to practice and improve key programming concepts, algorithms, data structures, and problem-solving skills.
 
 ## Structure
-- **python/**: Exercises solved in Python.
-- **javascript/**: Exercises solved in JavaScript.
-- **java/**: Exercises solved in Java.
-- **SQL/**: Exercises solved in SQL.
+- **python**: Exercises solved in Python.
+- **javascript**: Exercises solved in JavaScript.
+- **java**: Exercises solved in Java.
+- **SQL**: Exercises solved in SQL.
 
 Each folder is organized into subfolders by categories such as:
 - **algorithms**: Exercises related to algorithms.
